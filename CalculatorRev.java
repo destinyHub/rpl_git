@@ -26,4 +26,10 @@ public class CalculatorRev {
     public float minus(float a, float b){
         return a-b;
     }
+    
+    public float division(float a, float b){
+        return 0;
+    }
+    
+    
 }
