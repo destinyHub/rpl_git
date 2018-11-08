@@ -9,7 +9,7 @@ package calculatorrev;
  *
  * @author i16079
  */
-public class CalculatorRev {
+public class Calculator {
 
     /**
      * @param args the command line arguments
