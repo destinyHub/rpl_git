@@ -6,13 +6,11 @@ public class Calculator{
 	}
 
 	public float plus(float a , float b){
-
-
+		return a+b;
 	}
 
 	public float minus(float a , float b){
-
-
+		return a-b;
 	}
 
 
@@ -28,8 +26,8 @@ public class Calculator{
 
 	}
 
-	public float min(float b , float b){
-		return a<b?:a:b;
+	public float max(float a , float b){
+		return Math.max(a,b);
 
 	}
 }
