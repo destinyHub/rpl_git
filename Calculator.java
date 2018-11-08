@@ -27,4 +27,9 @@ public class Calculator{
 
 
 	}
+
+	public float min(float b , float b){
+		return a<b?:a:b;
+
+	}
 }
