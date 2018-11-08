@@ -26,8 +26,8 @@ public class Calculator{
 
 	}
 
-	public float max(float a , float b){
-		return Math.max(a,b);
+	public float min(float a , float b){
+		return Math.min(a,b);
 
 	}
 }
